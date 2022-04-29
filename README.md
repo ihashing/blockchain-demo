@@ -1,7 +1,7 @@
 # Blockchain Demo
 A web-based demonstration of blockchain concepts.
 
-[Live version](https://guggero.github.io/blockchain-demo/)
+[Live version](https://ihashing.github.io/blockchain-demo/)
 
 This is a complete rewrite of [Anders Brownworth's Blockchain Demo](https://github.com/anders94/blockchain-demo) with
 lots of additional features.
